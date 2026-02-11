@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "微睡み銀河",
+  "base_artist": "青葉 つむぎ(CV.石川 界人)、あんさんぶるスターズ！！",
+  "createdAt": "2026-02-11T10:56:42.414939Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "微睡み銀河",
+      "artist": "青葉 つむぎ(CV.石川 界人)",
+      "has_synced": false,
+      "path": "select/pl_01_微睡み銀河_青葉_つむぎ(CV.石川_界人).txt"
+    }
+  ]
+}
